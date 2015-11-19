@@ -6,11 +6,11 @@ html {
 li { 
   width: 230px;
   margin: 10px;
-	list-style: none;
+  list-style: none;
 }
 
 a {
-	text-decoration: none;
+  text-decoration: none;
   color: black;
 }
 
